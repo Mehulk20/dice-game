@@ -14,7 +14,7 @@ html {
 body {
   font-family: 'Nunito', sans-serif;
   font-weight: 400;
-  height: 95vh;
+  height: 90vh;
   color: #333;
   background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
   display: flex;
@@ -131,14 +131,14 @@ main {
 
 .btn--new {
   left: 6rem;
-  top: 25rem;
+  top: 21rem;
 }
 .btn--roll {
-  top: 45rem;
+  top: 41rem;
   left: 6rem;
 }
 .btn--hold {
-  top: 49.1rem;
+  top: 46.1rem;
   left: 6rem;
 }
 
@@ -173,7 +173,7 @@ main {
 }
 .close-modal {
   position: absolute;
-  top: -0.5rem;
+  top: -0.2rem;
   right: 1rem;
   font-size: 5rem;
   color: #333;
